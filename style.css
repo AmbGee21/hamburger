@@ -50,7 +50,7 @@
     display: none;
   }
   #check{
-    display: none;
+    display: none; 
   }
   @media (max-width: 952px){
     label.logo{
